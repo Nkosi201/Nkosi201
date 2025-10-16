@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left"> Profession: Frontend Developer<br> Focus: Building responsive, accessible, and dynamic web applications<br> Hobbies: Exploring UI/UX design trends, experimenting with data visualization, and crafting engaging presentations<br>Currently Learning: Advanced JavaScript frameworks and data science techniques<br> Fun Fact: I love turning complex data into compelling stories through design and code</p>
+<p align="left"> Profession: Frontend Developer(UI/UX Designer)<br> Focus: Building responsive, accessible, and dynamic web applications<br> Hobbies: Exploring UI/UX design trends, experimenting with data visualization, and crafting engaging presentations<br>Currently Learning: Advanced JavaScript frameworks and data science techniques<br> Fun Fact: I love turning complex data into compelling stories through design and code</p>
 
 ###
 

@@ -69,4 +69,70 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nkosi201&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
+---
 ###
+# 🧠 Business Analysis
+
+<p align="center">
+  <img src="https://img.shields.io/badge/STRATEGY-0d6efd?style=for-the-badge&logo=target&logoColor=white"/>
+  <img src="https://img.shields.io/badge/BUSINESS%20ANALYSIS-198754?style=for-the-badge&logo=bar-chart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MARKET%20RESEARCH-ffc107?style=for-the-badge&logo=graph&logoColor=black"/>
+  <img src="https://img.shields.io/badge/GOVERNANCE-28a745?style=for-the-badge&logo=balance-scale&logoColor=white"/>
+  <img src="https://img.shields.io/badge/COMPLIANCE-ff4d4d?style=for-the-badge&logo=check-circle&logoColor=white"/>
+</p>
+
+###
+
+## 🧩 Core Areas & Deliverables
+
+<table>
+  <tr>
+    <td valign="top" width="33%">
+
+**🔹 Core Focus Areas**
+- Business Analysis  
+- Strategy  
+- Market Research  
+- Governance  
+- Compliance  
+
+</td>
+    <td valign="top" width="33%">
+
+**📁 Documents Gathered from Clients**
+- Finance  
+- Governance  
+- Compliance  
+- Operational  
+- Technical  
+- Legal  
+
+</td>
+    <td valign="top" width="33%">
+
+**📄 Documents Produced**
+- Business Plan  
+- As-Is  
+- Growth Plan  
+- Company Strategy  
+- Market Analysis  
+- To-Be  
+- Gap Analysis  
+- Strategic Roadmap  
+- Financial Report  
+- Credit Rating Report  
+
+</td>
+  </tr>
+</table>
+
+**The reports support funding readiness and investor confidence.**
+
+###
+
+## 🧰 Tools I Use For Business Analysis
+
+🖥️ **PowerPoint** · 📝 **Word** · 📊 **Excel** · 🎨 **Canva** 
+
+---
+## 📁 Business Analysis Sample documents

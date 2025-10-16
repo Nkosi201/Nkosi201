@@ -139,11 +139,24 @@
 
 Here are a few examples of my Business Analysis deliverables — demonstrating strategic documentation, growth planning, and institutional diagnostics for different companies.
 
-| 📄 **Document Title** | 🧠 **Type** | 🔗 **Preview / Download** |
-|-----------------------|-------------|---------------------------|
-| **Mbokodo Entle Business Plan** | Strategic Business Plan | [📥 View Document](./Mbokodo%20Entle%20Business%20plan.pptx) |
-| **Zithandele Cleaning Service As-Is Report** | Institutional As-Is Analysis | [📥 View Document](./Zithandele%20Cleaning%20Service%20As-Is_Report.pptx) |
-| **Loop Growth Plan** | Growth & Expansion Strategy | [📥 View Document](./Loop%20Growth%20Plan.pptx) |
+**Click to View:**  
+
+<div align="center">
+
+<a href="./Zithandele%20Cleaning%20Service%20As-Is_Report.pptx">
+  <img src="https://i.imgur.com/5xZP3wl.png" width="200" alt="As-Is Analysis Report"/>
+</a>
+<a href="./Jalusi%20Tech%20As-Is_Report.pdf">
+  <img src="https://i.imgur.com/WmbyFwH.png" width="200" alt="Jalusi Tech As-Is Report"/>
+</a>
+<a href="./Loop%20Growth%20Plan.pptx">
+  <img src="https://i.imgur.com/NXfb38P.png" width="200" alt="Growth Plan Report"/>
+</a>
+<a href="./Mbokodo%20Entle%20Business%20plan.pptx">
+  <img src="https://i.imgur.com/xkDnE6a.png" width="200" alt="Mbokodo Entle Business Plan"/>
+</a>
+
+</div>
 
 ---
 

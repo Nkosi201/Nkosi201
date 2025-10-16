@@ -136,3 +136,16 @@
 
 ---
 ## 📁 Business Analysis Sample documents
+
+Here are a few examples of my Business Analysis deliverables — demonstrating strategic documentation, growth planning, and institutional diagnostics for different companies.
+
+| 📄 **Document Title** | 🧠 **Type** | 🔗 **Preview / Download** |
+|-----------------------|-------------|---------------------------|
+| **Mbokodo Entle Business Plan** | Strategic Business Plan | [📥 View Document](./Mbokodo%20Entle%20Business%20plan.pptx) |
+| **Zithandele Cleaning Service As-Is Report** | Institutional As-Is Analysis | [📥 View Document](./Zithandele%20Cleaning%20Service%20As-Is_Report.pptx) |
+| **Loop Growth Plan** | Growth & Expansion Strategy | [📥 View Document](./Loop%20Growth%20Plan.pptx) |
+
+---
+
+> 🗂️ *These documents illustrate my ability to analyze, design, and develop business reports aligned with governance, operational, and financial standards.*
+

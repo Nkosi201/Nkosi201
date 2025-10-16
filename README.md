@@ -70,6 +70,7 @@
 </div>
 
 ---
+
 ###
 # 🧠 Business Analysis
 
@@ -128,16 +129,12 @@
 
 **The reports support funding readiness and investor confidence.**
 
-###
-
-## 🧰 Tools I Use For Business Analysis
-
-🖥️ **PowerPoint** · 📝 **Word** · 📊 **Excel** · 🎨 **Canva** 
-
 ---
+
 ## 📁 Business Analysis Sample documents
 
 Here are a few examples of my Business Analysis deliverables — demonstrating strategic documentation, growth planning, and institutional diagnostics for different companies.
+
 
 | 📄 **Document Title** | 🧠 **Type** | 🔗 **Preview / Download** |
 |-----------------------|-------------|---------------------------|
@@ -146,7 +143,10 @@ Here are a few examples of my Business Analysis deliverables — demonstrating s
 | **Loop Growth Plan** | Growth & Expansion Strategy | [📥 View Document](./Loop%20Growth%20Plan.pptx) |
 | **Jalusi Tech As-Is Report** | Institutional Diagnostic Report | [📥 View Document](./Jalusi%20Tech%20As-Is_Report.pdf) |
 
----
-
 > 🗂️ *These documents illustrate my ability to analyze, design, and develop business reports aligned with governance, operational, and financial standards.*
 
+---
+
+## 🧰 Tools I Use For Business Analysis
+
+🖥️ **PowerPoint** · 📝 **Word** · 📊 **Excel** · 🎨 **Canva** 

@@ -26,11 +26,17 @@
 
 ###
 
-<p align="left"> Profession: Frontend Developer(UI/UX Designer)<br> Focus: Building responsive, accessible, and dynamic web applications<br> Hobbies: Exploring UI/UX design trends, experimenting with data visualization, and crafting engaging presentations<br>Currently Learning: Advanced JavaScript frameworks and data science techniques<br> Fun Fact: I love turning complex data into compelling stories through design and code</p>
+<p align="left"> 
+  Profession: <b>Frontend Developer (UI/UX Designer)</b><br> 
+  Focus: <b>Building responsive, accessible, and dynamic web applications</b><br> 
+  Hobbies: <b>Exploring UI/UX design trends, experimenting with data visualization, and crafting engaging presentations</b><br>
+  Currently Learning: <b>Advanced JavaScript frameworks and data science techniques</b><br> 
+  Fun Fact: <b>I love turning complex data into compelling stories through design and code</b>
+</p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left"> Language and tools</h3>
 
 ###
 
@@ -60,7 +66,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">  My Stats :</h3>
 
 ###
 
@@ -72,7 +78,7 @@
 ---
 
 ###
-# 🧠 Business Analysis
+# Business Analysis
 
 <p align="center">
   <img src="https://img.shields.io/badge/STRATEGY-0d6efd?style=for-the-badge&logo=target&logoColor=white"/>
@@ -147,6 +153,6 @@ Here are a few examples of my Business Analysis deliverables — demonstrating s
 
 ---
 
-## 🧰 Tools I Use For Business Analysis
+## 🧰 Tools Used
 
 🖥️ **PowerPoint** · 📝 **Word** · 📊 **Excel** · 🎨 **Canva** 
